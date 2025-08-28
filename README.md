@@ -102,3 +102,10 @@ This project analyzes a **Fraud Detection Dataset** with over **51,000 transacti
 - **Python (pandas)** – Data cleaning
 - **PostgreSQL + pgAdmin** – Database management & SQL querying
 - **Google Colab** – Notebook for cleaning workflow
+
+## ​ Repo Contents
+
+- `Google colab ipynb file/` → ipynb file that captures the data cleaning done with Pandas
+- `queries/` → SQL scripts categorized by business question  
+- `results/` → CSV files containing query outputs  
+- `README.md` → Overview, dataset link, insights, and project structure
